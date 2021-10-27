@@ -1,0 +1,56 @@
+body{
+    font-family: 'Urbanist', sans-serif;
+    font-size:16px;
+    background-color: #bcbcbc;
+    text-align:justify;
+}
+img{
+    display: block;
+    margin: auto;
+}
+#contenedor{
+    width: 900px;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #ffbcbc;
+}
+#header{
+    text-align: center;
+    background-color: #f38ba0;
+    padding: 2%;  
+}
+#menu{
+    float:left;
+    width:21%;
+    background-color: #ffbcbc;
+    padding: 2%;
+}
+#menu ul{
+    list-style: none;
+}
+#menu li a{
+    text-decoration:none;
+    line-height: 2em;
+    color:brown;
+    font-weight: bold;
+}
+#menu li a:hover{
+    color:beige;
+}
+#footer a:hover{
+    color:yellow;
+}
+#content{
+    float:left;
+    width:71%;
+    padding: 2%;
+    background-color: white;
+}
+#footer{
+    clear: both;
+    text-align: center;
+    font-size: 0.8em;
+    background-color:rosybrown;
+    font-weight: bold;
+    padding:2%;
+}
