@@ -18,7 +18,7 @@ img{
     text-align: right;
     color: white;
     height: 200px;
-    background-image: url(images/coliseo.jpg);
+    background-image: url(../images/coliseo.jpg);
     padding: 2%;  
 }
 #menu{
